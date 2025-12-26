@@ -18,10 +18,10 @@
 <div align="center">
 
 ### Landing Page
-![Landing Page](https://drive.google.com/uc?export=view&id=111eUufz1qAJuk1le_Fd5e82FsN59w6W_)
+![Landing Page]([https://drive.google.com/uc?export=view&id=111eUufz1qAJuk1le_Fd5e82FsN59w6W_](https://drive.google.com/file/d/111eUufz1qAJuk1le_Fd5e82FsN59w6W_/view?usp=drive_link))
 
 ### Product Pinch
-![Product Pinch](https://drive.google.com/uc?export=view&id=1bO-RqAQs9nIVsNGskR1laRe2feps5NXm)
+![Product Pinch]([https://drive.google.com/uc?export=view&id=1bO-RqAQs9nIVsNGskR1laRe2feps5NXm](https://drive.google.com/file/d/1bO-RqAQs9nIVsNGskR1laRe2feps5NXm/view?usp=drive_link))
 
 </div>
 
